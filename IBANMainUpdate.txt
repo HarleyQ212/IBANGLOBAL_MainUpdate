@@ -5,6 +5,8 @@
         "appDesc": "To provide this App on all mobile platforms.\r\n",
         "app_Version": "1.0",
         "upload_Date": "2024-04-08",
-        "active": "1"
+        "active": "1",
+        "Update_Available": "1",
+        "Update_Desc": "In this update we fix the issues which the user is encountered"
     }
 ]
