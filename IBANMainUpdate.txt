@@ -4,10 +4,11 @@
         "appName": "IBAN Assit",
         "appDesc": "To provide this App on all mobile platforms.\r\n",
         "app_Version": "1.1",
-        "upload_Date": "2024-04-08",
+        "upload_Date": "2024-04-30",
         "active": "1",
         "Update_Available": "1",
-        "Update_Desc": "In this update we fix the issues which the user is encountered",
-        "Update_App_URL": "https://play.google.com/store/apps/details?id=com.mscl.IbanGlobal&hl=en&gl=US&pli=1"
+        "Update_Title": "New Update Available",
+        "Update_Desc": "A new version of IBAN Assist is now available. Update now to enjoy the latest features and improvements!",
+        "Update_App_URL": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=US"
     }
 ]
