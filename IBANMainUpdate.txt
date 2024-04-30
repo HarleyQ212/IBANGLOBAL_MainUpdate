@@ -1,12 +1,13 @@
 [
     {
-        "serial_No": "123456789",
-        "appName": "IBAN Global",
+        "serial_No": "1",
+        "appName": "IBAN Assit",
         "appDesc": "To provide this App on all mobile platforms.\r\n",
-        "app_Version": "1.0",
+        "app_Version": "1.1",
         "upload_Date": "2024-04-08",
         "active": "1",
         "Update_Available": "1",
-        "Update_Desc": "In this update we fix the issues which the user is encountered"
+        "Update_Desc": "In this update we fix the issues which the user is encountered",
+        "Update_App_URL": "https://play.google.com/store/apps/details?id=com.mscl.IbanGlobal&hl=en&gl=US&pli=1"
     }
 ]
