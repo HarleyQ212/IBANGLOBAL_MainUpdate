@@ -1,0 +1,17 @@
+[
+    {
+        "faQ_ID": "1",
+        "question": "How can I install IBAN ASSIT App on my mobile device?",
+        "answer": "In case of Android Mobile phone, open Google Play Store and search “IBAN ASSIT”. IBAN ASSIT App will appear. Click GET to install this App on your mobile. Currently this App is available on Google Play Store only. It is MSCL intention to provide IBAN ASSIT on all mobile platforms."
+    },
+    {
+        "faQ_ID": "2",
+        "question": "What OS version does IBAN ASSIT support?",
+        "answer": "For Android phone users: Android OS 6 version or later."
+    },
+    {
+        "faQ_ID": "3",
+        "question": "Can I use IBAN ASSIT offline?",
+        "answer": "Yes, IBAN ASSIT works offline, internet connectivity is NOT mandatory. However, to update latest version of IBAN ASSIT, internet connectivity is required."
+    }
+]
