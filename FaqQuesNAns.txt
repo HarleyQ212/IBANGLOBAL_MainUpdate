@@ -13,5 +13,30 @@
         "faQ_ID": "3",
         "question": "Can I use IBAN ASSIT offline?",
         "answer": "Yes, IBAN ASSIT works offline, internet connectivity is NOT mandatory. However, to update latest version of IBAN ASSIT, internet connectivity is required."
+    },
+    {
+        "faQ_ID": "4",
+        "question": "Is IBAN ASSIT available for iOS devices?",
+        "answer": "Currently, IBAN ASSIT is only available for Android devices. However, MSCL intends to provide IBAN ASSIT on iOS devices in the future."
+    },
+    {
+        "faQ_ID": "5",
+        "question": "IBAN ASSIT multiple languages guidance?",
+        "answer": "Yes, IBAN ASSIT supports multiple languages guidance. You can view it by navigating into drawer and presses the “How To Use” change the language according to you need."
+    },
+    {
+        "faQ_ID": "6",
+        "question": "Is IBAN ASSIT free to use?",
+        "answer": "Yes, IBAN ASSIT is free to download and use."
+    },
+    {
+        "faQ_ID": "7",
+        "question": "How frequently is IBAN ASSIT updated?",
+        "answer": "IBAN ASSIT is regularly updated to improve performance and add new features. Updates are typically released periodically."
+    },
+    {
+        "faQ_ID": "8",
+        "question": "How to Update the App",
+        "answer": "IBAN ASSIT tends to update the app automically (In-App). So, user doesnot need to worry about to udapte the app and if the main update will come. The Pop-up will apper"
     }
 ]
